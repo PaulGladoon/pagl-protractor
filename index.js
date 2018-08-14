@@ -1,4 +1,3 @@
-
 const minimist = require('minimist')
 const ARGS = minimist(process.argv.slice(2))
 const protractorLauncher = require('protractor/built/launcher')
