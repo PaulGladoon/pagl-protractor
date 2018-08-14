@@ -7,8 +7,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "update:driver": "webdriver-manager update",
-    "start:driver": "webdriver-manager start"
+    "update:driver": "webdriver-manager update"
   },
   "author": "Paul Gladoon",
   "license": "ISC",
