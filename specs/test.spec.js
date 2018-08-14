@@ -1,5 +1,3 @@
-import { browser, $$, $ } from 'protractor'
-
 describe('TEST DESCRIBE', () => {
 
   beforeEach(async () => {
