@@ -7,7 +7,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update:driver": "webdriver-manager update",
+    "start:driver": "webdriver-manager start"
   },
   "author": "Paul Gladoon",
   "license": "ISC",
